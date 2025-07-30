@@ -8,4 +8,13 @@ nu tht
 30072501
 m 1
 d 1
+m 1
+d 1
+c 1 commit 
+repet
+s com v rep
+nu tht
+555
+300725
+
 
