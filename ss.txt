@@ -1,6 +1,41 @@
-1 file rebase
-2 file stesh
-2 file rebase
 
 
 
+<!DOCTYPE html>
+<html lang="en-ru">
+<head>
+  <title>AG</title>
+  <link rel="icon" type="C:\Users\Admin\Desktop" href="/images/favicon.ico">
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: black;}
+</style>
+</head>
+<body>
+
+<h1 style="text-align:center;">  Учебник   </h1>
+<p style="text-align:center;color:red">   Неупорядоченный HTML-список:   </p>
+<ul  style="text-align:left;">
+   <li>Cofee</li>
+   <li>tea</li>
+   <li>milk</li>
+</ul>
+<p style="text-align:center;color:red">   Упорядоченный HTML-список:  </p>
+<ol>
+   <li>Cofee</li>
+   <li>tea</li>
+   <li>milk</li>
+</ol>
+<p style="text-align:center;color:red">  Список описаний   </p>
+<dl>
+   <dt>Coffee</dt>
+     <dd>-black hot drink</dd>
+   <dt>tea</dt>
+      <dd>-green hot drink</dd>
+   <dt>milk</dt>
+       <dd>- white cold drink</dd>
+</dl>
+
+<body>
+<html>
